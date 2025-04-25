@@ -1,0 +1,10 @@
+# Navigate to the project folder
+cd path/to/archinest_prototype
+
+# Initialize Git and push to GitHub
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/alainsayah/archinest_proto.git
+git push -u origin main
