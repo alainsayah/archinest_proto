@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/archinest_proto/static/css/main.e6c13ad2.css",
-    "main.js": "/archinest_proto/static/js/main.7bfa6a0d.js",
+    "main.css": "/archinest_proto/static/css/main.aa0d25f9.css",
+    "main.js": "/archinest_proto/static/js/main.24d019d7.js",
     "static/js/488.5454e4a3.chunk.js": "/archinest_proto/static/js/488.5454e4a3.chunk.js",
     "index.html": "/archinest_proto/index.html",
-    "main.e6c13ad2.css.map": "/archinest_proto/static/css/main.e6c13ad2.css.map",
-    "main.7bfa6a0d.js.map": "/archinest_proto/static/js/main.7bfa6a0d.js.map",
+    "main.aa0d25f9.css.map": "/archinest_proto/static/css/main.aa0d25f9.css.map",
+    "main.24d019d7.js.map": "/archinest_proto/static/js/main.24d019d7.js.map",
     "488.5454e4a3.chunk.js.map": "/archinest_proto/static/js/488.5454e4a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.7bfa6a0d.js"
+    "static/css/main.aa0d25f9.css",
+    "static/js/main.24d019d7.js"
   ]
 }
